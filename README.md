@@ -13,7 +13,7 @@
 - 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivam-patel-67a66a206/) | [GitHub](https://github.com/shivampatel1203)  
 - 🌱 Areas of Interest: Ethical Hacking, Network Security, Smart City Projects, Security Automation  
 - 📜 Current Certifications (In Progress):  
-  - Certified Ethical Hacker (CEH) – EC-Council  
+  - Certified Ethical Hacker (CEH) – Pristine Info Solutions  
   - Cybersecurity Essentials – Cisco Networking Academy  
   - Foundations of Operationalizing Security – LinkedIn Learning  
   - MITRE ATT&CK Defender Courses – LinkedIn Learning  
