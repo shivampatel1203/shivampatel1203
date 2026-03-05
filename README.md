@@ -1,51 +1,52 @@
-<h1>👋 Hello, I'm Shivam Patel!</h1> <p>Welcome to my GitHub profile!</p> <p>I'm a passionate Cybersecurity Enthusiast and IT Professional with strong foundational experience in <b>SIEM, ISO 27001, Shell Scripting, and Network Security</b>. I recently completed my <b>Master’s in Applied Computing</b> in Montreal, Canada, and I am currently exploring opportunities in cybersecurity and ethical hacking.</p>
-BIO
+<h1>👋 Hello, I'm Shivam Patel!</h1>
 
-🏢 Current Role: Cybersecurity Enthusiast | IT & Security Projects
+<p>Welcome to my GitHub profile!</p>
+<p>I'm a Cybersecurity Enthusiast with strong foundational experience in <b>SIEM, ISO 27001, Shell Scripting, and Network Security</b>. I recently completed my <b>Master’s in Information Systems Security</b> in Montreal, Canada, and I am focused on advancing my career in cybersecurity and ethical hacking.</p>
 
-🎓 Education: Master’s in Applied Computing, Montreal, Quebec, Canada
+---
 
-⚙️ Daily Tools: Python, Linux, Cisco Packet Tracer, Wireshark, Burp Suite, DataDog, Grafana
+##### BIO
 
-🌍 Active on: LinkedIn
- and GitHub
+- 🏢 Current Role: Cybersecurity Enthusiast | IT & Security Projects  
+- 🎓 Education: Master’s in Information Systems Security, Montreal, Quebec, Canada  
+- ⚙️ Daily Tools: Python, Linux, Cisco Packet Tracer, Wireshark, Burp Suite, DataDog, Grafana  
+- 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivampatel-67a66a206) | [GitHub](https://github.com/shivampatel120302)  
+- 🌱 Areas of Interest: Ethical Hacking, Network Security, Smart City Projects, Security Automation  
+- 📜 Current Certifications (In Progress):  
+  - Certified Ethical Hacker (CEH) – EC-Council  
+  - Cybersecurity Essentials – Cisco Networking Academy  
+  - Foundations of Operationalizing Security – LinkedIn Learning  
+  - MITRE ATT&CK Defender Courses – LinkedIn Learning  
 
-🌱 Areas of Interest: Ethical Hacking, Network Security, Smart City Projects, Security Automation
+---
 
-⚡ Belief: Cybersecurity is about prevention, awareness, and continuous learning.
+## ⚡ Skills & Technologies
 
-⚡ Skills & Technologies
+- **Programming & Scripting**: Python, Shell Scripting, JavaScript  
+- **Cybersecurity Tools**: Burp Suite, Wireshark, DataDog, Grafana, SIEM  
+- **Standards & Frameworks**: ISO 27001, MITRE ATT&CK  
+- **Networking & Infrastructure**: Cisco Packet Tracer, Network Security Testing  
+- **Databases**: MySQL, SQLite  
+- **Operating Systems**: Linux, Windows  
+- **Version Control**: Git, GitHub  
 
-Programming & Scripting: Python, Shell Scripting, JavaScript
+---
 
-Cybersecurity Tools: Burp Suite, Wireshark, DataDog, Grafana, SIEM
+### 🌱 What I Do
 
-Standards & Frameworks: ISO 27001, MITRE ATT&CK, Security Essentials
+- Develop and test security solutions using Python, Shell Scripting, and networking tools.  
+- Build and simulate secure smart city networks in Cisco Packet Tracer.  
+- Continuously expand expertise in ethical hacking, cybersecurity frameworks, and operational security.  
+- Engage in self-learning, personal projects, and professional networking to grow my cybersecurity skills.  
 
-Networking & Infrastructure: Cisco Packet Tracer, Network Security Testing
+---
 
-Databases: MySQL, SQLite
+### 🚀 Notable Projects
 
-Operating Systems: Linux, Windows
+- **Incident Ticketing Automation Bot** – Automated ticket creation using Python, Jira APIs, and Azure.  
+- **Smart City Project** – Designed a secure city network in Cisco Packet Tracer with VLANs, firewalls, and monitoring.  
+- **FarmUnity (Client Project)** – Developed a secure platform connecting farmers and clients with web-based interfaces.  
 
-Version Control: Git, GitHub
-
-🌱 What I Do
-
-✔️ Develop and test security solutions using Python, Shell Scripting, and network tools.
-
-✔️ Build and simulate smart city networks and infrastructure in Cisco Packet Tracer with strong security measures.
-
-✔️ Continuously expand knowledge in ethical hacking, cybersecurity frameworks, and operational security practices.
-
-✔️ Engage in self-learning, personal projects, and professional networking to grow my cybersecurity expertise.
-
-🚀 Notable Projects
-
-Incident Ticketing Automation Bot: Built a bot to automate ticket creation using Python, Jira APIs, and Azure integrations.
-
-Smart City Project: Designed a secure city network in Cisco Packet Tracer, implementing VLANs, firewall rules, and monitoring systems.
-
-FarmUnity (Client Project): Developed a system connecting farmers and clients with secure data handling and web-based interfaces.
+---
 
 <em><b>I love connecting with like-minded professionals!</b> Feel free to reach out to discuss cybersecurity, tech projects, or collaboration opportunities. 🙂</em>
