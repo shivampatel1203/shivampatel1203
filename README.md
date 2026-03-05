@@ -10,7 +10,7 @@
 - 🏢 Current Role: Cybersecurity Enthusiast | IT & Security Projects  
 - 🎓 Education: Master’s in Information Systems Security, Montreal, Quebec, Canada  
 - ⚙️ Daily Tools: Python, Linux, Cisco Packet Tracer, Wireshark, Burp Suite, DataDog, Grafana  
-- 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivampatel-67a66a206) | [GitHub](https://github.com/shivampatel120302)  
+- 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivam-patel-67a66a206/) | [GitHub](https://github.com/shivampatel1203)  
 - 🌱 Areas of Interest: Ethical Hacking, Network Security, Smart City Projects, Security Automation  
 - 📜 Current Certifications (In Progress):  
   - Certified Ethical Hacker (CEH) – EC-Council  
